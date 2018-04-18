@@ -1,3 +1,4 @@
-politics
-entertain
-etc
+수영
+필라테스
+요가
+헬스유산소
